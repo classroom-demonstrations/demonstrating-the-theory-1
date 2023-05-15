@@ -7,6 +7,8 @@ structured.
 Here is a note! And one more and two more and more!
 
 Note 1
+Note 2
+Note 3
 
 :::
 
