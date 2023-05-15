@@ -5,6 +5,9 @@ structured.
 
 :::{note}
 Here is a note! And one more and two more and more!
+
+Note 1
+
 :::
 
 And here is a code block:
